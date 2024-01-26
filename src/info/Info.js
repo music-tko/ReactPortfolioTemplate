@@ -18,7 +18,7 @@ export const info = {
     firstName: "Thando",
     lastName: "Khoase",
     initials: "TK", 
-    position: "a Frontend Engineer",
+    position: "a Full Stack Engineer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
     baseColor: colors[0],
