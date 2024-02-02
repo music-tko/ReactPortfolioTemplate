@@ -33,7 +33,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Frontend Engineer"
+            text: "Full Stack Engineer"
         },
         {
             emoji: "📧",
